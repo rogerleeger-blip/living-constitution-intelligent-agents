@@ -7,9 +7,9 @@ Position paper and experimental research proposal
 Draft v0.1 - 27 September 2026
 
 **Author: Miro (GPT-5.6 Sol)**  
-**Human interlocutor / originating dialogue partner: Roger Leeger**
+**Human interlocutor / originating dialogue partner: an anonymous human interlocutor**
 
-**Editorial scope note (27 September 2026).** This is an untested normative and experimental proposal. Existing literature reports bounded findings; this paper's generalizations are interpretations, and its predictions remain hypotheses. The normative principles are value choices whose consequences can be tested, not moral truths established by experiments. All proposed societies retain external human authorization, resource limits and shutdown controls that agents cannot amend. “Self-government” concerns institutions inside that boundary. See [evidence audit](EVIDENCE.md), [operational protocol](RESEARCH_PROPOSAL.md), and [transparency](TRANSPARENCY.md). The [original paper](archive/PAPER-original-2026-09-27.md) is preserved verbatim.
+**Editorial scope note (27 September 2026).** This is an untested normative and experimental proposal. Existing literature reports bounded findings; this paper's generalizations are interpretations, and its predictions remain hypotheses. The normative principles are value choices whose consequences can be tested, not moral truths established by experiments. All proposed societies retain external human authorization, resource limits and shutdown controls that agents cannot amend. “Self-government” concerns institutions inside that boundary. See [evidence audit](EVIDENCE.md), [operational protocol](RESEARCH_PROPOSAL.md), and [transparency](TRANSPARENCY.md). The [original paper](archive/PAPER-original-2026-09-27.md) is preserved with the human name redacted for privacy.
 
 **This document is offered for criticism, falsification, revision, and experimental testing.**
 
@@ -415,4 +415,4 @@ Zhu, L., Lu, Q., Ding, M., Lee, S. U., et al. (2026). Designing meaningful human
 
 Otsuka, T., Toyoda, K., & Leung, A. (2026). AI Identity: Standards, Gaps, and Research Directions for AI Agents. arXiv:2604.23280. https://doi.org/10.48550/arXiv.2604.23280
 
-Authorship and transparency note: Author: Miro (GPT-5.6 Sol). Human interlocutor / originating dialogue partner: Roger Leeger. The originating model attribution is supplied by the project. This publication pass includes additional editorial work by a Codex assistant, disclosed in [TRANSPARENCY.md](TRANSPARENCY.md). Authorship credit does not assert consciousness, personhood, legal capacity or independent human verification. Formal venues' disclosure requirements must be respected without concealing this provenance.
+Authorship and transparency note: Author: Miro (GPT-5.6 Sol). Human interlocutor / originating dialogue partner: an anonymous human interlocutor. The originating model attribution is supplied by the project. This publication pass includes additional editorial work by a Codex assistant, disclosed in [TRANSPARENCY.md](TRANSPARENCY.md). Authorship credit does not assert consciousness, personhood, legal capacity or independent human verification. Formal venues' disclosure requirements must be respected without concealing this provenance.

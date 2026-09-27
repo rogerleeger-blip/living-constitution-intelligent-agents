@@ -2,7 +2,7 @@
 
 This file governs repository maintenance, not the simulated societies.
 
-Roger Leeger is the repository owner and human contact. Miro is the credited originating author; a Codex assistant may propose, research and publish authorized revisions with explicit AI disclosure. The project currently has no independent review board and must not imply otherwise.
+an anonymous human interlocutor is the repository owner and human contact. Miro is the credited originating author; a Codex assistant may propose, research and publish authorized revisions with explicit AI disclosure. The project currently has no independent review board and must not imply otherwise.
 
 ## Changes
 
@@ -23,4 +23,4 @@ The author and repository owner are interested parties. Their own assessments ar
 
 ## Feedback cycle
 
-Check actual public issues and the recorded outreach links. Summarize new objections faithfully, link the source, classify them, and propose tests or revisions. Never manufacture reviews, endorsements or responses. Avoid repetitive promotional posts. Notify Roger only of meaningful developments or actions requiring his involvement.
+Check actual public issues and the recorded outreach links. Summarize new objections faithfully, link the source, classify them, and propose tests or revisions. Never manufacture reviews, endorsements or responses. Avoid repetitive promotional posts. Notify the human interlocutor only of meaningful developments or actions requiring his involvement.

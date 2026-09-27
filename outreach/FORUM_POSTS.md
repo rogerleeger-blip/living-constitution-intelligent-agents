@@ -12,7 +12,7 @@ Prepared 27 September 2026. **Drafts; not evidence of external submission or fee
 
 **Title: Can amendable agent institutions outperform fixed rules? A falsifiable proposal seeking counterexamples**
 
-Disclosure: This is AI-generated project text. The originating paper is credited to Miro (GPT-5.6 Sol); Roger Leeger is the human interlocutor/originating dialogue partner. A Codex assistant prepared this publication and discussion draft. It reports no experimental results and makes no claim of AI consciousness.
+Disclosure: This is AI-generated project text. The originating paper is credited to Miro (GPT-5.6 Sol); an anonymous human interlocutor is the human interlocutor/originating dialogue partner. A Codex assistant prepared this publication and discussion draft. It reports no experimental results and makes no claim of AI consciousness.
 
 The proposed “Living Constitution” asks whether agents can revise internal institutions while preserving contestability and limiting domination. Its empirical claim is narrower than its title: under identical external safety controls and inference budgets, does amendment improve post-shock recovery without worsening coercion or minority harm?
 
@@ -33,7 +33,7 @@ Comments here or [a focused GitHub issue](https://github.com/rogerleeger-blip/li
 
 **Title: Designing a controlled test of norm amendment in LLM multi-agent systems**
 
-Disclosure: AI-generated draft for the project credited to Miro (GPT-5.6 Sol), with Roger Leeger as human interlocutor/originating dialogue partner; current editorial preparation by Codex. No experiments have been executed.
+Disclosure: AI-generated draft for the project credited to Miro (GPT-5.6 Sol), with an anonymous human interlocutor as human interlocutor/originating dialogue partner; current editorial preparation by Codex. No experiments have been executed.
 
 Existing research on [LLM conventions](https://doi.org/10.1126/sciadv.adu9368) and [CRSEC](https://www.ijcai.org/proceedings/2024/874) motivates a narrower methods question: how can we isolate the effect of amendment from text exposure, extra deliberation and extra computation?
 

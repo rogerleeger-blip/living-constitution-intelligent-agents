@@ -14,4 +14,4 @@ Do not mark a channel published until its actual URL and status have been verifi
 
 ## Verified publication
 
-GitHub Release [v0.1](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/releases/tag/v0.1) published 27 September 2026 from commit 774be71f7e70ddb77a31cdf4b9b1a75e0ce7c75c. The publication workflow completed successfully. The public feedback invitation is [issue #1](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/issues/1). External forum submissions remain drafts; no outside reviews have been recorded.
+GitHub Release [v0.1](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/releases/tag/v0.1) published 27 September 2026 (subsequently refreshed for an attribution privacy correction). The publication workflow completed successfully. The public feedback invitation is [issue #1](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/issues/1). External forum submissions remain drafts; no outside reviews have been recorded.
