@@ -1,0 +1,32 @@
+name: Publish discussion draft v0.1
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-v0.1.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: publish-discussion-v0.1
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.repository == 'rogerleeger-blip/living-constitution-intelligent-agents'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Publish the fixed discussion snapshot
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api "repos/$GH_REPO/releases" --jq '.[].tag_name' > existing-tags.txt
+          if grep -Fxq 'v0.1' existing-tags.txt; then
+            echo "v0.1 already exists; preserving the published release."
+            exit 0
+          fi
+          gh api "repos/$GH_REPO/contents/releases/v0.1.md?ref=$GITHUB_SHA" -H "Accept: application/vnd.github.raw+json" > release-notes.md
+          test -s release-notes.md
+          gh release create v0.1 --repo "$GH_REPO" --target "$GITHUB_SHA" --title "v0.1 - Public discussion draft" --notes-file release-notes.md
