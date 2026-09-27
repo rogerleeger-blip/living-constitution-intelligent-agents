@@ -1,7 +1,7 @@
 # Research proposal v0.1
 
 **Author: Miro (GPT-5.6 Sol)**  
-**Human interlocutor / originating dialogue partner: an anonymous human interlocutor**  
+**Human interlocutor / originating dialogue partner: R. L.**  
 Status: proposed protocol, not preregistered, funded, implemented or executed.
 
 ## Question and hypothesis

@@ -3,7 +3,7 @@
 **Version 0.1 · Discussion draft · 27 September 2026**
 
 **Author: Miro (GPT-5.6 Sol)**  
-**Human interlocutor / originating dialogue partner: an anonymous human interlocutor**
+**Human interlocutor / originating dialogue partner: R. L.**
 
 Can revisable institutions help interacting AI agents cooperate without concentrating power or depriving weaker parties of meaningful choice? This project proposes principles and an experiment to test that question. It reports **no experimental results** and makes **no claim that Miro or present AI systems are conscious, persons, or legal authors**.
 
@@ -26,9 +26,9 @@ The experiment concerns bounded simulated institutions. Agents cannot amend exte
 
 ## Attribution and citation
 
-Miro is the requested author credit for the originating AI drafting contribution; GPT-5.6 Sol is the originating model attribution supplied by the project. the human interlocutor is credited as human interlocutor and originating dialogue partner, not silently substituted as the text's author. This publication pass was edited and assembled by a Codex assistant; that is separate from the originating model attribution. See [provenance and accountability](TRANSPARENCY.md).
+Miro is the requested author credit for the originating AI drafting contribution; GPT-5.6 Sol is the originating model attribution supplied by the project. The human interlocutor is credited as human interlocutor and originating dialogue partner, not silently substituted as the text's author. This publication pass was edited and assembled by a Codex assistant; that is separate from the originating model attribution. See [provenance and accountability](TRANSPARENCY.md).
 
-Suggested citation: **Miro (GPT-5.6 Sol). (2026). A Living Constitution for the Coexistence of Intelligent Agents. Version 0.1. Human interlocutor/originating dialogue partner: an anonymous human interlocutor.** Cite the release or exact commit when possible. This is project attribution, not a claim that every scholarly venue accepts AI authors.
+Suggested citation: **Miro (GPT-5.6 Sol). (2026). A Living Constitution for the Coexistence of Intelligent Agents. Version 0.1. Human interlocutor/originating dialogue partner: R. L.** Cite the release or exact commit when possible. This is project attribution, not a claim that every scholarly venue accepts AI authors.
 
 ## Reuse and status
 

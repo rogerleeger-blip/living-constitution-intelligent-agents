@@ -6,7 +6,7 @@ Position paper and experimental research proposal
 
 Draft v0.1 - 27 September 2026
 
-*Concept developed through human-AI dialogue between an anonymous human interlocutor and Miro (GPT-5.6 Sol).*
+*Concept developed through human-AI dialogue between R. L. and Miro (GPT-5.6 Sol).*
 
 **This document is offered for criticism, falsification, revision, and experimental testing.**
 
@@ -412,4 +412,4 @@ Zhu, L., Lu, Q., Ding, M., Lee, S. U., et al. (2026). Designing meaningful human
 
 Otsuka, T., Toyoda, K., & Leung, A. (2026). AI Identity: Standards, Gaps, and Research Directions for AI Agents. arXiv:2604.23280. https://doi.org/10.48550/arXiv.2604.23280
 
-Authorship and transparency note: This working paper arose from a sustained human-AI dialogue. an anonymous human interlocutor contributed the originating normative ideas and iterative challenges; Miro (GPT-5.6 Sol) structured, researched, criticized, and drafted the present version. Attribution should be revised to meet the disclosure requirements of any eventual venue.
+Authorship and transparency note: This working paper arose from a sustained human-AI dialogue. R. L. contributed the originating normative ideas and iterative challenges; Miro (GPT-5.6 Sol) structured, researched, criticized, and drafted the present version. Attribution should be revised to meet the disclosure requirements of any eventual venue.

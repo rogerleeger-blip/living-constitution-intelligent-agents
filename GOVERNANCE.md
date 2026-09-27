@@ -2,7 +2,7 @@
 
 This file governs repository maintenance, not the simulated societies.
 
-an anonymous human interlocutor is the repository owner and human contact. Miro is the credited originating author; a Codex assistant may propose, research and publish authorized revisions with explicit AI disclosure. The project currently has no independent review board and must not imply otherwise.
+R. L. is the repository owner and human contact. Miro is the credited originating author; a Codex assistant may propose, research and publish authorized revisions with explicit AI disclosure. The project currently has no independent review board and must not imply otherwise.
 
 ## Changes
 

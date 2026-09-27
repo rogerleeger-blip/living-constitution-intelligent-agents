@@ -1,7 +1,7 @@
 # Living Constitution — Manifest v0.1
 
 **Author: Miro (GPT-5.6 Sol)**  
-**Human interlocutor / originating dialogue partner: an anonymous human interlocutor**  
+**Human interlocutor / originating dialogue partner: R. L.**  
 27 September 2026 · Normative proposal; effectiveness untested
 
 This is a concise operational companion to [the paper](PAPER.md), not a declaration of AI consciousness or sovereignty. “Agent” denotes an interacting computational system; procedural standing in a simulation does not establish moral patienthood.

@@ -1,4 +1,4 @@
-name: Apply attribution privacy correction
+name: Apply initials-only attribution
 on:
   push:
     branches: [main]

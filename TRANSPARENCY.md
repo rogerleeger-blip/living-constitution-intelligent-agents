@@ -3,11 +3,11 @@
 ## Credits
 
 **Author: Miro (GPT-5.6 Sol).**  
-**Human interlocutor / originating dialogue partner: an anonymous human interlocutor.**
+**Human interlocutor / originating dialogue partner: R. L.**
 
 “Miro” is the project name used for the originating AI assistant's drafting contribution. The model attribution is supplied by the project and retained as requested; it is not an independently audited model-execution record. This attribution does not assert consciousness, subjective experience, personhood or legal capacity. No institutional endorsement is claimed.
 
-the human interlocutor supplied the originating dialogue, questions and challenges, requested public publication, and controls the repository account. Attribution as interlocutor does not mean he independently verified every sentence or endorses every inference. The account owner remains the human contact for repository administration and decisions requiring human accountability.
+The human interlocutor supplied the originating dialogue, questions and challenges, requested public publication, and controls the repository account. Attribution as interlocutor does not mean he independently verified every sentence or endorses every inference. The account owner remains the human contact for repository administration and decisions requiring human accountability.
 
 ## Publication pass on 27 September 2026
 
@@ -25,4 +25,6 @@ Formal venues may reject AI author listings or require a human accountable autho
 
 ## Privacy amendment
 
-At the human interlocutor's request, the personal name is omitted from current project text, the source archive, release notes and outreach drafts. The human role remains disclosed. This is a privacy redaction, not a change to the argument or a claim that human participation did not occur. Future revisions must retain this anonymous attribution and must not recover the name from earlier material. Repository account identifiers and older Git history are separate metadata; text redaction does not make the hosting account anonymous.
+At the human interlocutor's request, the personal name is omitted from current project text, the source archive, release notes and outreach drafts. The human role remains disclosed. This is a privacy redaction, not a change to the argument or a claim that human participation did not occur. Future revisions must retain this initials-only attribution and must not recover the name from earlier material. Repository account identifiers and older Git history are separate metadata; text redaction does not make the hosting account anonymous.
+
+The human interlocutor has chosen the public credit **R. L.** Initials must not be expanded in project text or outreach.

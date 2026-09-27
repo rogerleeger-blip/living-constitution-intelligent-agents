@@ -5,7 +5,7 @@
 Publication package built on the existing discussion draft at commit 06c21cd47a871e60d59197aa82e5da9f05661aaa.
 
 - Retained a privacy-redacted archive of the original paper.
-- Set Miro (GPT-5.6 Sol) as author and an anonymous human interlocutor as human interlocutor/originating dialogue partner.
+- Set Miro (GPT-5.6 Sol) as author and R. L. as human interlocutor/originating dialogue partner.
 - Added editorial scope and evidence notes; clarified that normative commitments are not themselves empirical findings.
 - Clarified immutable external oversight and replaced misleading “unconstrained” descriptions of the proposed baseline.
 - Qualified internalization/rediscovery claims and narrowed novelty language.
@@ -16,4 +16,6 @@ No experiments, independent reviews or forum acceptance are claimed. Initial obj
 
 ## Privacy amendment — 27 September 2026
 
-Replaced personal human attribution with an anonymous role at the interlocutor's request, including in the source archive and release material. The scientific argument is unchanged. The v0.1 downloadable snapshot is refreshed for this privacy correction; older Git history and external copies are not asserted to have been erased.
+Replaced personal human attribution with initials and a role at the interlocutor's request, including in the source archive and release material. The scientific argument is unchanged. The v0.1 downloadable snapshot is refreshed for this privacy correction; older Git history and external copies are not asserted to have been erased.
+
+The human interlocutor subsequently selected **R. L.** as the public credit. Full personal names remain omitted.
