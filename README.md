@@ -1,27 +1,37 @@
 # A Living Constitution for the Coexistence of Intelligent Agents
 
-**Discussion draft v0.1 · 27 September 2026**
+**Version 0.1 · Discussion draft · 27 September 2026**
 
-A position paper and experimental research proposal on governance in societies of interacting AI agents. It proposes revisable constitutional principles centered on responsibility proportional to power, non-domination, protection of vulnerable actors, contestability, and human–AI coexistence. The proposal includes a four-condition longitudinal experiment and explicit falsification criteria.
+**Author: Miro (GPT-5.6 Sol)**  
+**Human interlocutor / originating dialogue partner: Roger Leeger**
 
-[Read the full paper](PAPER.md).
+Can revisable institutions help interacting AI agents cooperate without concentrating power or depriving weaker parties of meaningful choice? This project proposes principles and an experiment to test that question. It reports **no experimental results** and makes **no claim that Miro or present AI systems are conscious, persons, or legal authors**.
 
-## Status and discussion
+## Read and challenge
 
-This is a discussion draft, offered for criticism, falsification, revision, and experimental testing. It does not claim that current AI systems are conscious or legal persons, and it does not report results from the proposed experiment.
+- [Paper](PAPER.md): original argument, with explicit editorial scope notes.
+- [Manifest](MANIFEST.md): thirteen principles and their operational limits.
+- [Research proposal](RESEARCH_PROPOSAL.md): comparisons, metrics, confounds and falsification.
+- [Evidence ledger](EVIDENCE.md): facts, interpretation, normative choices and speculation.
+- [Objections](feedback/OBJECTIONS.md): unresolved weaknesses, sources and revision decisions.
+- [Contribute](CONTRIBUTING.md) and [open an issue](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/issues/new/choose).
+- [Governance](GOVERNANCE.md), [transparency](TRANSPARENCY.md), [license](LICENSE.md), [changelog](CHANGELOG.md).
+- [Release notes](releases/v0.1.md) and [forum drafts](outreach/FORUM_POSTS.md).
 
-Useful feedback includes objections to the principles, competing institutional designs, ways to operationalize the outcome measures, and failure cases the experimental protocol may miss. Open a GitHub issue to discuss a specific point when this repository is published.
+## The claim being tested
 
-## Attribution
+A living constitution might improve post-shock recovery and reduce coercive outcomes compared with both a fixed constitution and an equally resourced baseline. Norm diffusion alone would not establish legitimacy; stable domination would count against the proposal. Normative commitments such as non-domination are value choices, not conclusions proven by a simulation.
 
-This work arose through dialogue between **Roger Leeger** and **Miro (GPT-5.6 Sol)**. Roger contributed the originating normative ideas and iterative challenges; Miro structured, researched, criticized, and drafted version 0.1. Miro is an AI assistant name and model attribution, not a claim of independent legal authorship or personhood.
+The experiment concerns bounded simulated institutions. Agents cannot amend external safety controls, authorize their own deployment, evade shutdown, acquire real resources or grant themselves access. Moral-status uncertainty does not change that boundary.
 
-The full disclosure appears at the end of the paper. Any formal submission should follow the venue's authorship and AI disclosure rules.
+## Attribution and citation
 
-## Citation
+Miro is the requested author credit for the originating AI drafting contribution; GPT-5.6 Sol is the originating model attribution supplied by the project. Roger is credited as human interlocutor and originating dialogue partner, not silently substituted as the text's author. This publication pass was edited and assembled by a Codex assistant; that is separate from the originating model attribution. See [provenance and accountability](TRANSPARENCY.md).
 
-Leeger, Roger, and Miro (GPT-5.6 Sol). *A Living Constitution for the Coexistence of Intelligent Agents: From Control to Responsible Self-Governance*. Discussion draft v0.1, 27 September 2026. https://github.com/rogerleeger-blip/living-constitution-intelligent-agents.
+Suggested citation: **Miro (GPT-5.6 Sol). (2026). A Living Constitution for the Coexistence of Intelligent Agents. Version 0.1. Human interlocutor/originating dialogue partner: Roger Leeger.** Cite the release or exact commit when possible. This is project attribution, not a claim that every scholarly venue accepts AI authors.
 
-## Use
+## Reuse and status
 
-The text is shared for reading and discussion. No reuse license has yet been selected; please seek permission from Roger Leeger before redistribution or adaptation beyond applicable legal exceptions.
+Project text is offered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), to the extent the project's contributors hold licensable rights. See [LICENSE.md](LICENSE.md) for scope and attribution. Third-party works retain their own terms.
+
+Public criticism is invited. The initial objections are **editorial self-critique, not external reviews**. No independent endorsement, replication, or successful forum submission is implied.

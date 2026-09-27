@@ -1,0 +1,30 @@
+name: Objection or counterexample
+description: Challenge a principle, assumption or conclusion
+title: "[Objection] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version and clause
+      placeholder: "v0.1, Manifest principle 11"
+    validations:
+      required: true
+  - type: textarea
+    id: objection
+    attributes:
+      label: Strongest form of the objection
+      description: Distinguish factual, interpretive and normative disagreement.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence, counterexample or competing proposal
+  - type: textarea
+    id: resolution
+    attributes:
+      label: What would address the objection?
+  - type: textarea
+    id: disclosure
+    attributes:
+      label: AI assistance or relevant conflicts

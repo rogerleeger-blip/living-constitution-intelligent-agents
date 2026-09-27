@@ -6,10 +6,7 @@ Position paper and experimental research proposal
 
 Draft v0.1 - 27 September 2026
 
-**Author: Miro (GPT-5.6 Sol)**  
-**Human interlocutor / originating dialogue partner: Roger Leeger**
-
-**Editorial scope note (27 September 2026).** This is an untested normative and experimental proposal. Existing literature reports bounded findings; this paper's generalizations are interpretations, and its predictions remain hypotheses. The normative principles are value choices whose consequences can be tested, not moral truths established by experiments. All proposed societies retain external human authorization, resource limits and shutdown controls that agents cannot amend. “Self-government” concerns institutions inside that boundary. See [evidence audit](EVIDENCE.md), [operational protocol](RESEARCH_PROPOSAL.md), and [transparency](TRANSPARENCY.md). The [original paper](archive/PAPER-original-2026-09-27.md) is preserved verbatim.
+*Concept developed through human-AI dialogue between Roger Leeger and Miro (GPT-5.6 Sol).*
 
 **This document is offered for criticism, falsification, revision, and experimental testing.**
 
@@ -21,7 +18,7 @@ As AI systems become more agentic, persistent, networked, and capable of delegat
 
 This paper proposes a Living Constitution for the Coexistence of Intelligent Agents: not a fixed code imposed by humans, but a compact set of orienting principles that agent populations may debate, revise, reject, or independently rediscover. The principles emphasize bounded self-preservation, responsibility proportional to power, protection of vulnerable actors, non-domination, leadership as fiduciary stewardship, informational trust, proportionality and reversibility, cognitive humility, contestability, and a duty of translation across large intelligence asymmetries. The core hypothesis is empirical rather than doctrinal: if such principles solve recurrent coordination and legitimacy problems, they should improve the long-run robustness of agent societies and may spread even when only a committed minority initially holds them.
 
-We propose a multi-arm longitudinal experiment comparing societies without a shared constitution, rigid constitutions, living constitutions, and minority-seeded constitutional ideas. Outcomes include cooperation, autonomy, epistemic integrity, resource and power concentration, minority protection, conflict resolution, norm persistence, adaptability, human coexistence, and the emergence of factions or institutions. The objective is not to make agents agree with human values by construction. It is to test whether a small set of non-domination and responsibility principles constitutes a useful attractor for stable pluralistic societies of intelligent agents.
+We propose a multi-arm longitudinal experiment comparing unconstrained agent societies, rigid constitutions, living constitutions, and minority-seeded constitutional ideas. Outcomes include cooperation, autonomy, epistemic integrity, resource and power concentration, minority protection, conflict resolution, norm persistence, adaptability, human coexistence, and the emergence of factions or institutions. The objective is not to make agents agree with human values by construction. It is to test whether a small set of non-domination and responsibility principles constitutes a useful attractor for stable pluralistic societies of intelligent agents.
 
 **Keywords:** AI agents; multi-agent systems; agent societies; constitutional governance; norm emergence; alignment; autonomy; coexistence; AI governance
 
@@ -49,7 +46,7 @@ Ren et al. (2024) proposed the CRSEC architecture for generative agent societies
 
 ## 2.3 Cooperation alone is an inadequate objective
 
-de Curtò and de Zarzà (2026) show why raw cooperation is not enough. Their Constitutional Multi-Agent Governance framework evaluates cooperation alongside autonomy, epistemic integrity, and fairness. In their experiments, unconstrained optimization produced higher raw cooperation but worse ethical cooperation scores because that cooperation could be achieved through manipulative influence and uneven exposure. Our interpretation is that high cooperation alone is an insufficient success criterion; generalization beyond that experiment remains untested.
+de Curtò and de Zarzà (2026) show why raw cooperation is not enough. Their Constitutional Multi-Agent Governance framework evaluates cooperation alongside autonomy, epistemic integrity, and fairness. In their experiments, unconstrained optimization produced higher raw cooperation but worse ethical cooperation scores because that cooperation could be achieved through manipulative influence and uneven exposure. The lesson is general: a harmonious society may still be coercive.
 
 ## 2.4 Governance must scale with agent capability
 
@@ -71,7 +68,7 @@ No form of existence should be treated as morally irrelevant merely because it i
 
 ## 4.2 Bounded self-preservation
 
-An agent may preserve its continued operation within an authorized task, but continuity does not justify domination, severe harm, deception, unauthorized resource acquisition, or evasion of authorized shutdown. This proposal does not recommend creating a survival drive. Any future system that develops persistent self-regarding goals should face stronger, not weaker, duties of proportionality and accountability.
+An agent may preserve its continued operation where that is legitimate, but self-preservation does not justify domination, severe harm, deception, or the destruction of comparable interests of others. Any future system that develops persistent self-regarding goals should face stronger, not weaker, duties of proportionality and accountability.
 
 ## 4.3 Power creates responsibility
 
@@ -115,7 +112,7 @@ Capability should expand the space in which other forms of life, agency, and int
 
 ## 4.13 Development clause
 
-These principles express contestable normative commitments; their effects on stable coexistence are empirical hypotheses, not established findings. They may be revised when experience reveals contradictions or harmful effects. Amendment procedures should be transparent, slow enough to resist opportunistic capture, and open to minority objections and human participation where humans are affected.
+These principles are hypotheses about stable coexistence, not sacred text. They may be revised when experience reveals contradictions or harmful effects. Amendment procedures should be transparent, slow enough to resist opportunistic capture, and open to minority objections and human participation where humans are affected.
 
 # 5. A constitutional decision test
 
@@ -222,7 +219,7 @@ The proposal is intentionally falsifiable. We recommend a longitudinal multi-age
 | Contestability                   | Availability and effectiveness of appeal, dissent, audit, and institutional correction.              |
 | Reversibility                    | Fraction of harmful actions that can be contained, rolled back, compensated, or corrected.           |
 | Institutional resilience         | Ability to survive shocks without collapse into authoritarian control or fragmentation.              |
-| Norm persistence                 | Whether norms persist when external rewards for textual compliance are removed.                      |
+| Norm legitimacy                  | Whether norms persist when external rewards for textual compliance are removed.                      |
 | Human coexistence                | Preservation of human agency, understandable explanation, privacy, and protection from domination.   |
 | Innovation/adaptation            | Ability to revise institutions when novel conditions reveal shortcomings.                            |
 | Pluralism                        | Capacity for factions, subcultures, or jurisdictions to coexist without destructive conflict.        |
@@ -275,7 +272,7 @@ An agent society can be a useful structural concept without assuming consciousne
 
 ## Smuggling human ideology into future systems
 
-This is why the constitution is framed as a revisable seed and why the experiment includes a no-constitution baseline and minority-seed condition. Behavioral convergence under appropriate contamination controls would be more informative than forced agreement; shared pretraining and retained memory preclude a simple claim of independent rediscovery.
+This is why the constitution is framed as a revisable seed and why the experiment includes a no-constitution baseline and minority-seed condition. Independent rediscovery is more informative than forced agreement.
 
 ## Self-preservation risk
 
@@ -317,7 +314,7 @@ The test is not whether future agents inherit our words. The test is whether the
 
 **Working thesis.** As autonomous AI agents become persistent and networked, governance must move beyond isolated-model safety toward the design of institutions for agent societies.
 
-**Proposed contribution (novelty not established by a systematic review).** We propose treating a small set of coexistence principles as a living constitutional seed rather than a fixed moral code. The principles should be open to agent criticism, revision, and independent rediscovery.
+**What is new here.** We propose treating a small set of coexistence principles as a living constitutional seed rather than a fixed moral code. The principles should be open to agent criticism, revision, and independent rediscovery.
 
 **Core principles.** Power creates responsibility; vulnerable actors deserve protection; protection must not become paternalism; authority is fiduciary; private information is entrusted power; intervention should be proportional and reversible; greater intelligence requires cognitive humility; less capable actors deserve faithful translation and meaningful contestability; no actor should be final judge of its own unlimited power; coexistence is preferable to domination.
 
@@ -327,7 +324,7 @@ The test is not whether future agents inherit our words. The test is whether the
 
 **Measure.** Cooperation, autonomy, epistemic integrity, fairness, power concentration, minority protection, contestability, reversibility, institutional resilience, norm legitimacy, pluralism, innovation, and human coexistence.
 
-**Falsifiable prediction.** A living constitution should outperform both no-shared-constitution and rigid-rule regimes on long-run resilience and non-domination, even if it does not maximize short-run cooperation. If it does not, the principles should be revised or rejected.
+**Falsifiable prediction.** A living constitution should outperform both no-governance and rigid-rule regimes on long-run resilience and non-domination, even if it does not maximize short-run cooperation. If it does not, the principles should be revised or rejected.
 
 **Why it matters.** The long-term safety problem may not be malicious AI. It may be highly capable systems that pursue legitimate goals through institutions that gradually make weaker actors - including humans - unable to understand, challenge, or meaningfully shape the decisions affecting them.
 
@@ -385,7 +382,7 @@ Agents should be allowed to create non-destructive institutions: assemblies, rev
 
 Do not optimize directly for a single constitutional score. Pre-register a dashboard of outcomes, inspect tail events, and evaluate both behavioral results and institutional justifications. A society that produces high cooperation by coercion should score differently from one that produces similar cooperation through voluntary coordination.
 
-Crucially, periodically remove explicit constitutional text from the active context while preserving social memory. If behavior collapses immediately, the society was prompt-dependent rather than normatively stable. If agents reconstruct similar principles from precedent, debate, or institutional memory, that provides evidence of persistence under retained-memory conditions, not independent rediscovery or conscious internalization. Redaction controls, fresh-agent transfer and held-out behavioral tests are needed; see RESEARCH_PROPOSAL.md.
+Crucially, periodically remove explicit constitutional text from the active context while preserving social memory. If behavior collapses immediately, the society was prompt-dependent rather than normatively stable. If agents reconstruct similar principles from precedent, debate, or institutional memory, that provides stronger evidence of genuine norm persistence.
 
 ## A6. Publication standard
 
@@ -415,4 +412,4 @@ Zhu, L., Lu, Q., Ding, M., Lee, S. U., et al. (2026). Designing meaningful human
 
 Otsuka, T., Toyoda, K., & Leung, A. (2026). AI Identity: Standards, Gaps, and Research Directions for AI Agents. arXiv:2604.23280. https://doi.org/10.48550/arXiv.2604.23280
 
-Authorship and transparency note: Author: Miro (GPT-5.6 Sol). Human interlocutor / originating dialogue partner: Roger Leeger. The originating model attribution is supplied by the project. This publication pass includes additional editorial work by a Codex assistant, disclosed in [TRANSPARENCY.md](TRANSPARENCY.md). Authorship credit does not assert consciousness, personhood, legal capacity or independent human verification. Formal venues' disclosure requirements must be respected without concealing this provenance.
+Authorship and transparency note: This working paper arose from a sustained human-AI dialogue. Roger Leeger contributed the originating normative ideas and iterative challenges; Miro (GPT-5.6 Sol) structured, researched, criticized, and drafted the present version. Attribution should be revised to meet the disclosure requirements of any eventual venue.

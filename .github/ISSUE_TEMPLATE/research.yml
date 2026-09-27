@@ -1,0 +1,30 @@
+name: Research design or factual correction
+description: Improve measurements, controls, sources or falsification
+title: "[Research] "
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Version and affected claim
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Error, confound or missing control
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed correction or test
+  - type: textarea
+    id: source
+    attributes:
+      label: Sources and expected disconfirming result
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Proposed text
+      options:
+        - label: "If I propose original text for incorporation, I agree to its inclusion under this project's CC BY 4.0 terms."
