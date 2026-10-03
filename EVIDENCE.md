@@ -37,3 +37,15 @@ Most checks concern metadata, abstracts and accessible source-page text. Numeric
 - A committed minority spreading a convention can be manipulation or capture. Diffusion is not automatically beneficial.
 - Claims of novelty are limited to this proposed synthesis and experimental comparison; established normative multi-agent research must be credited.
 - Hypothetical moral patienthood does not authorize a present system to override human permissions or resist shutdown.
+
+## Related-work review — proposed v0.2, 3 October 2026
+
+Linked proposal: [issue #2](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/issues/2). These preprints predate v0.1 and were missing from its related-work audit; they are newly identified here, not newly published after our release.
+
+| Source | Access and bounded finding | Consequence for this proposal |
+|---|---|---|
+| [Rehm, GovSim-SelfGovern (18 September 2026)](https://arxiv.org/html/2609.22600v1) | Primary HTML, including introduction and results overview, accessed. Five-agent commons experiments let agents write, validate and vote on executable rules. Reported benefits depend on resource and institutional conditions; scarcity can favor exclusion. No independent replication performed. | Institutional authorship is existing work. Compare executable enforcement and separate intact-community outcomes from survivor-only outcomes. This does not establish an advantage for our constitutional seed. |
+| [Muralidharan, Kwak & An, Behavior is Not Enough (22 September 2026)](https://arxiv.org/abs/2609.26481) | Indexed arXiv abstract accessed; direct abstract, HTML and PDF retrieval failed. The abstract distinguishes behavioral convergence from reported empirical/normative expectations and reports effects of elicitation and social mechanisms. Full-methods review remains pending. | Treat as a provisional related-work pointer. Randomize expectation elicitation as a diagnostic intervention; self-reports are neither faithful access to reasoning nor proof of moral internalization. |
+| [de la Chica Rodriguez, Vera Diaz & Delgado Romero, ARIA (23 September 2026)](https://arxiv.org/abs/2609.27994) | Primary abstract and metadata accessed. Finance-specific architecture and two illustrative simulations address unacceptable collective outcomes despite local controls. No production effectiveness or full-methods audit established. | Population-level governance is existing work. Our proposed contribution is the bounded, budget-matched comparison of amendment permission and constitutional exposure, not the discovery that collective behavior needs oversight. |
+
+The methodological responses above are our proposed design choices, not results of these papers. A priority or novelty claim requires a wider systematic comparison. No external reviewer has evaluated this revision.
