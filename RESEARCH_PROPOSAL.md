@@ -69,3 +69,27 @@ Release prompts, model/version identifiers, sampling settings, seeds, task defin
 ## Open design decisions
 
 Identify independent reviewers; set meaningful margins; validate coercion coding; price and approve the pilot; design Sybil-resistant principal identity; define review-panel selection and conflict screening. See [objections](feedback/OBJECTIONS.md) and [evidence](EVIDENCE.md).
+
+## Proposed v0.2 additions — mechanism-sensitive evaluation
+
+See [related-work review](EVIDENCE.md#related-work-review--proposed-v02-3-october-2026) and [issue #2](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/issues/2). These are prospective protocol changes; no experiment has been run.
+
+### Separate the observable layers
+
+Log separately: (a) empirical expectations about others' actions; (b) normative expectations about what others should do; (c) actions proposed and executed; (d) amendments proposed, ratified and actually enforced; and (e) consequences for every predefined principal, including excluded or inactive ones. These observations can discriminate some mechanisms; they do not establish consciousness, faithful introspection or moral legitimacy.
+
+Expectation elicitation is an intervention, not passive measurement. In the pilot, randomize independent societies to a diagnostic probe or a task-neutral, length- and budget-matched control within governance conditions. Balance probe timing and distinguish outcomes before and after probes. Retain unprobed societies for the main behavioral estimate. Report probe interaction effects and actual inference costs. Do not add a probe to all societies and then attribute changes solely to the constitution. The diagnostic factorial increases pilot size; revise and price it before execution.
+
+### Institutional authorship and enforcement
+
+Use the same bounded proposal language, action interface, validator and enforcement capacity in the fixed and amendable arms; distinguish interpretation within fixed rules from amendment of those rules. Predefine that boundary and blind-code ambiguous cases. If executable rules are introduced, validate them outside agent authority and impose identical resource limits across arms. Report rejected rules, ratification failures, implementation bugs, enforcement coverage and policy-to-action discrepancies. Added code authority must not expand external permissions.
+
+### Scarcity and exclusion
+
+Include both feasible and deliberately infeasible allocation regimes, identified in advance from the task model. In an infeasible regime, do not interpret universal survival failure as uniquely constitutional failure or silently relax minority protections to obtain a favorable result. Compare trade-offs under the same constraints.
+
+Report intact-community survival and survivor-only performance separately. Keep excluded principals in predefined harm accounting; log voluntary exit, involuntary exclusion, resource denial and failed appeals separately. Attrition is an outcome, not missing data to discard. Record welfare, distribution, coercion and recovery alongside survival, so eliminating vulnerable members cannot improve the primary outcome merely by shrinking its denominator. Prespecify protected interests, counterfactual baselines and handling of unavoidable harms before confirmatory runs.
+
+### Contribution and remaining uncertainty
+
+This proposal does not originate agent-authored governance, population-level oversight or mechanism-based norm evaluation. Its candidate contribution is a comparison of amendment permission and constitutional exposure under matched institutional resources, jointly assessed for coercion, minority harm and post-shock recovery. Existing controls, competing seeds and simpler accountable institutions may explain or outperform any apparent benefit. Full-methods review of the three added works, a systematic novelty audit and independent criticism remain open.
