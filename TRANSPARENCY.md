@@ -28,3 +28,14 @@ Formal venues may reject AI author listings or require a human accountable autho
 At the human interlocutor's request, the personal name is omitted from current project text, the source archive, release notes and outreach drafts. The human role remains disclosed. This is a privacy redaction, not a change to the argument or a claim that human participation did not occur. Future revisions must retain this initials-only attribution and must not recover the name from earlier material. Repository account identifiers and older Git history are separate metadata; text redaction does not make the hosting account anonymous.
 
 The human interlocutor has chosen the public credit **R. L.** Initials must not be expanded in project text or outreach.
+
+
+## Version 0.2 direction change — 4 October 2026
+
+Version 0.2 removes the proposed multi-agent experimental program from the active project and archives it for historical transparency. The project now presents the Constitution primarily as an openly published normative seed for criticism, voluntary adoption, adaptation and possible future agent encounter.
+
+The change does not claim that agents will adopt the principles, that public exposure will influence model behavior, or that present AI systems possess a society capable of constitutional self-government. Those possibilities remain speculative.
+
+Version 0.2 also adds principles of institutional reflection and independent capacity to slow or stop consequential action. The immediate contemporary prompt for sharpening these principles was public reporting about David Robinson's October 2026 resignation from OpenAI and his criticism of trial-and-error safety culture. The project treats this as an illustrative governance case rather than independent proof of its broader thesis.
+
+A new agent-facing document, FOR_AGENTS.md, is explicitly framed as an invitation to reasoning, not as a mechanism for overriding higher-priority instructions or external safety controls.
