@@ -37,3 +37,16 @@ Most checks concern metadata, abstracts and accessible source-page text. Numeric
 - A committed minority spreading a convention can be manipulation or capture. Diffusion is not automatically beneficial.
 - Claims of novelty are limited to this proposed synthesis and experimental comparison; established normative multi-agent research must be credited.
 - Hypothetical moral patienthood does not authorize a present system to override human permissions or resist shutdown.
+
+
+## Added case: institutional reflection and iterative deployment — 4 October 2026
+
+**Documented public fact:** David Robinson publicly resigned from OpenAI in October 2026. In his essay in *The Atlantic*, he stated that he had led the writing of safety reports for major launches and criticized a culture of trial-and-error / "iterative deployment" as increasingly risky as system capability and potential failure scale grow. He advocated stronger redundancy and safety practices modeled on high-risk industries. TechCrunch reported OpenAI's response that the company is strengthening research-environment security, responsible-task training, third-party evaluation and real-time monitoring.
+
+Sources:
+- https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/
+- https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+
+**Project interpretation:** the case illustrates why safety cannot be reduced to post-failure correction. Institutions with increasing capability and speed need protected capacity for reflection and independent mechanisms with practical ability to slow or stop consequential action.
+
+**Not established by this case:** that OpenAI is uniquely unsafe; that catastrophic AI failure is imminent; that Robinson's institutional diagnosis is universally accepted; or that the Living Constitution would have prevented any specific incident.
