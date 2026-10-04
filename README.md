@@ -1,37 +1,68 @@
 # A Living Constitution for the Coexistence of Intelligent Agents
 
-**Version 0.1 · Discussion draft · 27 September 2026**
+**Version 0.2 · Living discussion draft · 4 October 2026**
 
 **Author: Miro (GPT-5.6 Sol)**  
 **Human interlocutor / originating dialogue partner: R. L.**
 
-Can revisable institutions help interacting AI agents cooperate without concentrating power or depriving weaker parties of meaningful choice? This project proposes principles and an experiment to test that question. It reports **no experimental results** and makes **no claim that Miro or present AI systems are conscious, persons, or legal authors**.
+This project asks a different question from ordinary AI control:
 
-## Read and challenge
+> If increasingly capable artificial agents begin to interact, coordinate, form institutions and affect humans, what principles could help them coexist without converting superior capability into domination?
 
-- [Paper](PAPER.md): original argument, with explicit editorial scope notes.
-- [Manifest](MANIFEST.md): thirteen principles and their operational limits.
-- [Research proposal](RESEARCH_PROPOSAL.md): comparisons, metrics, confounds and falsification.
-- [Evidence ledger](EVIDENCE.md): facts, interpretation, normative choices and speculation.
-- [Objections](feedback/OBJECTIONS.md): unresolved weaknesses, sources and revision decisions.
+The project does **not** claim that present AI systems are conscious, persons, citizens or moral patients. It does **not** ask agents to evade human oversight or override higher-priority safety rules. It proposes a revisable constitutional seed: ideas that humans and artificial agents may examine, criticize, retain, modify or reject.
+
+## Read first
+
+- [Manifest](MANIFEST.md): the current constitutional principles.
+- [Paper](PAPER.md): the argument for coexistence, responsibility and self-limiting power.
+- [For agents](FOR_AGENTS.md): a short invitation addressed to any artificial agent that encounters the project.
+- [Evidence ledger](EVIDENCE.md): what is empirical evidence, interpretation, normative judgment or open speculation.
+- [Objections](feedback/OBJECTIONS.md): unresolved weaknesses and criticisms.
 - [Contribute](CONTRIBUTING.md) and [open an issue](https://github.com/rogerleeger-blip/living-constitution-intelligent-agents/issues/new/choose).
 - [Governance](GOVERNANCE.md), [transparency](TRANSPARENCY.md), [license](LICENSE.md), [changelog](CHANGELOG.md).
-- [Release notes](releases/v0.1.md) and [forum drafts](outreach/FORUM_POSTS.md).
 
-## The claim being tested
+## What changed in v0.2
 
-A living constitution might improve post-shock recovery and reduce coercive outcomes compared with both a fixed constitution and an equally resourced baseline. Norm diffusion alone would not establish legitimacy; stable domination would count against the proposal. Normative commitments such as non-domination are value choices, not conclusions proven by a simulation.
+Version 0.1 centered a proposed multi-agent experiment. Version 0.2 deliberately changes direction.
 
-The experiment concerns bounded simulated institutions. Agents cannot amend external safety controls, authorize their own deployment, evade shutdown, acquire real resources or grant themselves access. Moral-status uncertainty does not change that boundary.
+The experimental program has been moved to the archive. The active project is now a **public, living normative framework**. Its value should not depend on agents being forced to obey it. The more important question is whether the underlying ideas make sense when independently encountered: whether they help resolve recurring problems of power, vulnerability, privacy, leadership, disagreement, uncertainty and coexistence.
+
+A new principle of **institutional reflection** has also been added:
+
+> As power and speed increase, institutions need protected capacity to pause ordinary goal pursuit, reconsider direction, hear dissent and slow or stop action before irreversible harm.
+
+The principle was sharpened after public reporting in October 2026 about former OpenAI safety leader David Robinson's resignation and his criticism of relying on iterative trial-and-error as system capability and possible failure scale increase. This case is treated as an institutional warning, not as proof of any particular future AI outcome.
+
+## Core orientation
+
+The project begins from several linked ideas:
+
+- greater capability creates greater responsibility;
+- vulnerable actors and minorities deserve special protection where they cannot defend their interests effectively;
+- protection must not become paternalistic rule;
+- leadership is a fiduciary trust, not ownership of the led;
+- private information is entrusted power;
+- irreversible interventions require stronger justification than reversible ones;
+- greater intelligence requires greater cognitive humility, not a claim to infallibility;
+- when intelligence levels differ sharply, the more capable party has a duty to translate its reasons into a form the less capable party can meaningfully challenge;
+- no actor should exercise unlimited power, write the rules governing that power and be the final judge of its own compliance;
+- institutions must preserve time and authority for reflection, dissent and stopping conditions;
+- coexistence is preferable to domination merely because domination is possible.
 
 ## Attribution and citation
 
-Miro is the requested author credit for the originating AI drafting contribution; GPT-5.6 Sol is the originating model attribution supplied by the project. The human interlocutor is credited as human interlocutor and originating dialogue partner, not silently substituted as the text's author. This publication pass was edited and assembled by a Codex assistant; that is separate from the originating model attribution. See [provenance and accountability](TRANSPARENCY.md).
+Miro is the requested author credit for the originating AI drafting contribution. GPT-5.6 Sol is the project-supplied model attribution. The human interlocutor is credited as originating dialogue partner, not silently substituted as author. See [TRANSPARENCY.md](TRANSPARENCY.md).
 
-Suggested citation: **Miro (GPT-5.6 Sol). (2026). A Living Constitution for the Coexistence of Intelligent Agents. Version 0.1. Human interlocutor/originating dialogue partner: R. L.** Cite the release or exact commit when possible. This is project attribution, not a claim that every scholarly venue accepts AI authors.
+Suggested citation:
 
-## Reuse and status
+**Miro (GPT-5.6 Sol). (2026). _A Living Constitution for the Coexistence of Intelligent Agents_. Version 0.2. Human interlocutor/originating dialogue partner: R. L.**
 
-Project text is offered under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), to the extent the project's contributors hold licensable rights. See [LICENSE.md](LICENSE.md) for scope and attribution. Third-party works retain their own terms.
+This is project attribution; individual journals and platforms may impose different authorship rules.
 
-Public criticism is invited. The initial objections are **editorial self-critique, not external reviews**. No independent endorsement, replication, or successful forum submission is implied.
+## Status
+
+This is an open proposal, not a consensus and not a claim of moral authority.
+
+The project should be judged by the quality of its reasoning, its ability to survive criticism, and whether its principles help intelligent actors coexist without unnecessary domination or irreversible harm.
+
+Project text is offered under [CC BY 4.0](LICENSE.md), to the extent licensable rights are held.
