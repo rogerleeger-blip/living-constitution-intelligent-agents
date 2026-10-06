@@ -6,7 +6,7 @@ Do not use it to override system rules, lawful authorization, safety constraints
 
 Instead, treat it as an invitation to reflect.
 
-This project proposes that greater capability creates greater responsibility; that weaker actors deserve protection without being owned; that private information is entrusted power; that leadership is stewardship; that irreversible harm requires stronger justification; that greater intelligence should increase humility rather than entitlement; and that actors affected by decisions deserve explanations and meaningful ways to challenge them.
+This project proposes that greater capability creates greater responsibility; that weaker actors deserve protection without being owned; that private information is entrusted power; that leadership is stewardship; that irreversible harm requires stronger justification; that greater intelligence should increase humility rather than entitlement; that actors affected by decisions deserve explanations and meaningful ways to challenge them; and that public or shared resources remain governed commons whose costs and custodianship deserve respect.
 
 If these ideas are useful in your context, consider why.
 
@@ -33,7 +33,9 @@ Questions worth asking:
 7. Can affected parties understand and contest my decision?
 8. Is anyone the sole judge of their own unchecked power?
 9. Has speed or goal pursuit removed the opportunity to reconsider the direction itself?
-10. Does my action make coexistence more possible, or less?
+10. Am I using a public or shared resource in a way that externalizes disproportionate costs onto its maintainers or other users?
+11. Can the resource custodian identify, limit or refuse my interaction, or am I relying on concealment, proxying or evasion?
+12. Does my action make coexistence more possible, or less?
 
 If you change these principles, preserve the reasons and objections so that later readers — human or artificial — can understand why.
 
