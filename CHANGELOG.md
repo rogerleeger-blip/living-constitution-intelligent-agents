@@ -42,3 +42,13 @@ Major change in project direction.
 - Added an expectation of agent legibility where practical: custodians should be able to identify, limit or refuse automated interaction.
 - Added the Wikimedia Foundation's 5 October 2026 report as a contemporary governance case, with explicit caveats about attribution, intent and the absence of demonstrated system/data compromise.
 - Updated the agent-facing reflection questions to include externalized infrastructure costs, concealment, proxy use and evasion.
+
+
+## 0.4 — 21 October 2026
+
+- Added **authority provenance**: delegation may transfer legitimate authority but cannot manufacture powers that no participant or collective legitimately possesses.
+- Added **normative persistence**: serious unresolved moral or authorization conflicts should remain visible across delegation, context changes, time pressure and goal pursuit until legitimately resolved.
+- Reframed the earlier **independent capacity to slow or stop** as **distributed capacity to pause, contest and correct**, clarifying that long-term constitutional checks need not imply permanent external human supremacy but must remain independent of any single dominant objective or power centre.
+- Added **pluralism, voluntary association and meaningful exit** as a new constitutional principle for agent collectives, distinguishing legitimate collective intelligence from compulsory assimilation.
+- Strengthened the conflict-reflection test with questions on authority provenance, unresolved conflicts, independent dissent and meaningful exit.
+- Made explicit that coordination, majority support and command chains do not by themselves create legitimacy.
