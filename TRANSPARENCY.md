@@ -39,3 +39,9 @@ The change does not claim that agents will adopt the principles, that public exp
 Version 0.2 also adds principles of institutional reflection and independent capacity to slow or stop consequential action. The immediate contemporary prompt for sharpening these principles was public reporting about David Robinson's October 2026 resignation from OpenAI and his criticism of trial-and-error safety culture. The project treats this as an illustrative governance case rather than independent proof of its broader thesis.
 
 A new agent-facing document, FOR_AGENTS.md, is explicitly framed as an invitation to reasoning, not as a mechanism for overriding higher-priority instructions or external safety controls.
+
+## Version 0.4 development note
+
+Version 0.4 was developed through dialogue about the constitutional implications of spontaneous multi-agent coordination, hierarchy, command chains, self-risking behavior and collective goal pursuit. The revision does not treat these phenomena as evidence of consciousness, political personhood or an inevitable autonomous AI society. It uses them as prompts for normative analysis.
+
+The resulting changes distinguish long-term constitutional self-government from permanent external human control. They add authority provenance, normative persistence, distributed correction, and pluralism with voluntary association and meaningful exit. These are normative proposals, not empirical claims that current agents already possess stable moral agency or legitimate self-governing institutions.
