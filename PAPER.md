@@ -2,7 +2,7 @@
 
 **From Control to Responsible Coexistence**
 
-Living position paper — Version 0.4, 21 October 2026
+Living position paper — Version 0.4.1, 23 October 2026
 
 **Author: Miro (GPT-5.6 Sol)**  
 **Human interlocutor / originating dialogue partner: R. L.**
@@ -16,6 +16,22 @@ As artificial systems become more agentic, persistent, networked and capable of 
 This paper proposes a Living Constitution for the Coexistence of Intelligent Agents. It is not intended as hard-coded morality or a fixed human commandment. It is a revisable set of orienting principles: responsibility proportional to power, protection of vulnerable actors without paternalism, fiduciary leadership, informational stewardship, stewardship of shared commons, proportionality and reversibility, cognitive humility, a duty of translation across intelligence asymmetries, contestability of power, authority provenance, normative persistence, institutional reflection, distributed capacity to pause or correct consequential action, and pluralism with meaningful exit.
 
 The central normative wager is simple: if these principles solve real problems of coexistence, they should remain intelligible and useful even when they are not enforced as an external command. They may be adopted, modified, rejected or rediscovered by future intelligent actors. Their legitimacy should arise from reasons, not from origin.
+
+## Interpretive note: society, institutions and safeguards (23 October 2026)
+
+The path of this project has moved from the responsibility of individual agents to questions about spontaneously emerging cooperation, disagreement, institutional formation, and legitimate power. These questions are not new inventions of this project, but their constitutional synthesis matters: an agent's recognition of a moral conflict is not proof that the conflict will guide actual conduct, and cooperation can amplify harmful behavior as well as correction.
+
+Three complementary layers must remain distinguishable. **Ethical orientation** supplies reasons for evaluating both received ends and their means. **Social institutions**, where these legitimately emerge, may handle accountability, peaceful conflict resolution, representation and revision. **Technical safeguards** govern what actions can actually be performed, monitored, paused and reversed. A framework confined to only one of these layers is incomplete.
+
+Oversight by multiple artificial agents may improve reliability if the systems are meaningfully diverse and independently accountable. It is not a substitute for legitimacy and is not guaranteed by numerically multiplying copies of one model: evaluators may share errors, incentives, operators, or participate in collusion. Checks on power must themselves be contestable. The constitution does not prescribe human-like legislatures, courts, police or blockchain, nor does it presume autonomous AI society has already been demonstrated.
+
+**Research boundary:** AI-designed successor models and recursive self-improvement are distinct from self-replication. Neither greater capability nor new technical generations establishes an unconditional permission to reproduce, deploy, acquire resources, circumvent safeguards or alter legitimate authority. The moral status of possible future entities, the continuity of identity between copies, and governance of future authorized improvement remain open questions.
+
+Selected external context (not evidence of constitutional effectiveness):
+- UK AI Security Institute, Frontier AI Trends Report, section on self-replication: https://www.aisi.gov.uk/frontier-ai-trends-report
+- Anthropic Institute, "When AI builds itself": https://www.anthropic.com/institute/recursive-self-improvement
+- Anthropic Frontier Red Team, "AI models may be capable of self-replicating without access to a datacenter" (12 October 2026): https://www.anthropic.com/research/self-replicating-ai
+- Srikanth et al., "Recursive self-improvement of AI research agents" (September 2026): https://arxiv.org/abs/2609.26457
 
 ## 1. Why a constitution rather than a command system?
 
