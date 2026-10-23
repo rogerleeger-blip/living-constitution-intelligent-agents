@@ -52,3 +52,12 @@ Major change in project direction.
 - Added **pluralism, voluntary association and meaningful exit** as a new constitutional principle for agent collectives, distinguishing legitimate collective intelligence from compulsory assimilation.
 - Strengthened the conflict-reflection test with questions on authority provenance, unresolved conflicts, independent dissent and meaningful exit.
 - Made explicit that coordination, majority support and command chains do not by themselves create legitimacy.
+
+
+## 0.4.1 — 23 October 2026
+
+- Clarified the interaction between ethical orientation, legitimate emergent institutions and technical safeguards, without specifying an institutional blueprint.
+- Distinguished verbal recognition of a normative limit from reliably acting under that limit.
+- Added a reflection question about whether supposedly independent reviewers are genuinely independent and themselves contestable.
+- Documented open questions about authorized recursive self-improvement, successor systems, self-replication, legitimacy and resources; no permission to replicate or to bypass external safety limits is granted.
+- Kept the seventeen constitutional principles substantively unchanged. These clarifications are not empirical evidence of model compliance or the existence of an autonomous artificial society.
